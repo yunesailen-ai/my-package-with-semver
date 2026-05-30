@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-30)
+
+### Features
+
+- Introduce a breaking change
+  ([`3bef907`](https://github.com/yunesailen-ai/my-package-with-semver/commit/3bef907b7057f65482e9a0c138fc3eaceec5b952))
+
+
 ## v1.1.0 (2026-05-30)
 
 ### Bug Fixes
