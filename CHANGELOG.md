@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-30)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`7197bc9`](https://github.com/yunesailen-ai/my-package-with-semver/commit/7197bc98e06e76db1139d6bae12b3a6e0aaf8a45))
+
+
 ## v2.0.0 (2026-05-30)
 
 ### Features
